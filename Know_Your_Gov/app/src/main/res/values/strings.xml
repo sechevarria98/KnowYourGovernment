@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Know Your Government</string>
+    <string name="about">about</string>
+    <string name="location">location</string>
+    <string name="no_loc">No Location</string>
+    <string name="no_perm">No Permissions</string>
+    <string name="todo">TODO</string>
+    <string name="title_activity_politician_details">Know Your Government</string>
+    <string name="address">Address:</string>
+    <string name="phone">Phone:</string>
+    <string name="website">Website:</string>
+    <string name="email">Email:</string>
+    <string name="not_valid">No Data For Location</string>
+    <string name="version_1_0">Version 1.0</string>
+    <string name="google_civic_information_api"> <u>Google Civic Information API</u></string>
+    <string name="powered_by">Powered by</string>
+    <string name="no_internet">There is not internet connection</string>
+    <string name="know_your_government">Know Your Government</string>
+</resources>
